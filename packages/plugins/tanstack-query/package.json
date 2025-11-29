@@ -95,7 +95,7 @@
     },
     "devDependencies": {
         "@angular/core": "^20.0.0",
-        "@angular/common": "^20.0.0",
+        "@angular/common": "^20.3.14",
         "@angular/platform-browser": "^20.0.0",
         "@tanstack/angular-query-v5": "npm:@tanstack/angular-query-experimental@5.84.x",
         "@tanstack/react-query": "^4.29.7",
