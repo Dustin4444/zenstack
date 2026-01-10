@@ -94,7 +94,7 @@
         "ts-pattern": "^4.3.0"
     },
     "devDependencies": {
-        "@angular/core": "^20.0.0",
+        "@angular/core": "^20.3.16",
         "@angular/common": "^20.0.0",
         "@angular/platform-browser": "^20.0.0",
         "@tanstack/angular-query-v5": "npm:@tanstack/angular-query-experimental@5.84.x",
