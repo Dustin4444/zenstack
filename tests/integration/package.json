@@ -22,7 +22,7 @@
         "@zenstackhq/swr": "workspace:*",
         "@zenstackhq/trpc": "workspace:*",
         "fs-extra": "^11.1.0",
-        "next": "14.2.4",
+        "next": "15.5.21",
         "tmp": "^0.2.1",
         "uuid": "^10.0.0",
         "zenstack": "workspace: *"
